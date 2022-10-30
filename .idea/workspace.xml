@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e69fd4de-5b86-40ee-ac44-e94d6fb931fc" name="Changes" comment="" />
+    <list default="true" id="e69fd4de-5b86-40ee-ac44-e94d6fb931fc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-microservice-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-microservice-dev.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +38,8 @@
       <option name="presentableId" value="Default" />
       <updated>1667160567855</updated>
       <workItem from="1667160569435" duration="21000" />
-      <workItem from="1667160624224" duration="2604000" />
+      <workItem from="1667160624224" duration="3809000" />
+      <workItem from="1667166907801" duration="853000" />
     </task>
     <servers />
   </component>
