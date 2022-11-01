@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e69fd4de-5b86-40ee-ac44-e94d6fb931fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/booking-microservice-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/booking-microservice-dev.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product-microservice-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-microservice-dev.properties" afterDir="false" />
@@ -16,6 +14,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/booking-microservice.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.idea/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/product-microservice.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/product-microservice-dev.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/booking-microservice-dev.properties" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="2GrxaUxTzn2U4jNbyVRw83cOKTS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zuul-microservice" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -51,7 +57,9 @@
       <updated>1667160567855</updated>
       <workItem from="1667160569435" duration="21000" />
       <workItem from="1667160624224" duration="3809000" />
-      <workItem from="1667166907801" duration="4677000" />
+      <workItem from="1667166907801" duration="4832000" />
+      <workItem from="1667234121396" duration="684000" />
+      <workItem from="1667237975078" duration="3857000" />
     </task>
     <servers />
   </component>
