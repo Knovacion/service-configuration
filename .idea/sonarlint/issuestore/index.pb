@@ -1,6 +1,4 @@
 
-S
-#product-microservice-dev.properties,9\e\9ea54fa4f6e68639da94c257f08fe8bb31bd9b9b
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
